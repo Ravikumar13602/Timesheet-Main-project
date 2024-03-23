@@ -1,0 +1,25 @@
+16:01:25.159 [main] INFO  TestCases.TC001_beCognizant - ***** starting TC001_beCognizant *****
+16:01:30.928 [main] INFO  TestCases.TC001_beCognizant - clicked on profile
+16:01:31.934 [main] INFO  TestCases.TC001_beCognizant - verifying name of user
+16:01:33.970 [main] INFO  TestCases.TC001_beCognizant - verifying email of user
+16:01:49.148 [main] INFO  TestCases.TC001_beCognizant - Scrolling the page upto OneCognizant link 
+16:01:54.633 [main] INFO  TestCases.TC001_beCognizant - opening the OneCognizant
+16:02:10.138 [main] INFO  TestCases.TC001_beCognizant - Capturing ScreenShots
+16:02:19.800 [main] INFO  TestCases.TC001_beCognizant - handled the OneCognizant window
+16:02:22.829 [main] INFO  TestCases.TC001_beCognizant - Navigated to OneCognizant
+16:02:23.976 [main] INFO  TestCases.TC001_beCognizant - clicked on search Icon
+16:02:31.267 [main] INFO  TestCases.TC001_beCognizant - input timesheet in search bar
+16:02:42.071 [main] INFO  TestCases.TC001_beCognizant - handled the timesheet window
+16:02:42.142 [main] INFO  TestCases.TC001_beCognizant - Navigated to timesheet
+16:03:03.373 [main] INFO  TestCases.TC001_beCognizant - validating the header
+16:03:04.841 [main] INFO  TestCases.TC001_beCognizant - three weeks of timesheet
+16:03:11.719 [main] INFO  TestCases.TC001_beCognizant - Displayed current week
+16:03:43.870 [main] INFO  TestCases.TC001_beCognizant - displayed  tsStatusApproved
+16:03:53.083 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusOverdue
+16:04:03.959 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPartiallyApproved
+16:04:14.786 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusPending 
+16:04:25.772 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSaved
+16:04:36.603 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSentBackforRevision
+16:04:47.554 [main] INFO  TestCases.TC001_beCognizant - displayed tsStatusSubmittedforApproval
+16:04:47.836 [main] INFO  TestCases.TC001_beCognizant - ***** closing the browser *****
+16:05:00.263 [main] INFO  TestBase.baseClass - closing the browser
